@@ -1,0 +1,19 @@
+{
+  "todos": [
+    {
+      "text": "Makan Pagi",
+      "completed": false,
+      "id": 2
+    },
+    {
+      "text": "Snack dan Coffee time",
+      "completed": false,
+      "id": 4
+    },
+    {
+      "text": "scaa",
+      "completed": false,
+      "id": 6
+    }
+  ]
+}
